@@ -1,0 +1,69 @@
+/* div p{
+    background-color: red;
+}
+div  p span{
+    background-color: yellow;
+}
+#id{
+    color: red;
+} */
+
+/* 
+input[type="text"]{
+    background-color: yellow;
+}
+input[type="password"]{
+    background-color: red;
+} */
+/* 
+h1{
+    background-color: blue;
+}
+h1:hover{
+    background-color: red;
+    color: white;
+}
+p:hover{
+    background-color: yellow;
+    color: red;
+} */
+/* 
+h1:active{
+    background-color: green;
+    color: red;
+} */
+/* 
+h1::first-letter{
+    color: red;
+    background-color: blue;
+} */
+
+/* h1::first-line{
+    background-color: rgb(7, 173, 7);
+} */
+
+/* h1::selection{
+    color: red;
+    background-color: yellow;
+} */
+
+/* .h1{
+    background-color: red;
+}
+.h1{
+    background-color: yellow;
+}
+.h1{
+    background-color: green;
+} */
+
+h1{
+    background-color: blue;
+}
+
+/* .h1{
+    background-color: rgb(247, 250, 215);
+}
+#h1{
+    background-color: green;
+} */

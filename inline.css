@@ -1,0 +1,32 @@
+.h{
+    /* background-color: red; */
+    /* display: inline; */
+    /* width: 300px; */
+}
+h1{
+    background-color: aqua;
+    /* display: block; */
+    width: 200px;
+    height: 200px;
+    background-image: url("bmw.png");
+    /* background-size: contain; */
+   /* background-size: cover; */
+   /* background-size: auto; */
+}
+.div{
+    background-color: yellow;
+    height: 100px;
+    width: 80%;
+}
+h2{
+    background-color: rgba(0, 0, 255,0.5);
+    opacity: 1;
+}
+
+.h3{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    /* transform: rotate(60deg); */
+    transform: scale(0.5);
+}

@@ -1,0 +1,17 @@
+/* h1{
+    color: aqua;
+    background-color: yellow;
+} */
+*{
+    background-color: red;
+}
+#world{
+    background-color: pink;
+}
+#world1{
+    background-color: green;
+}
+
+.hello{
+    background-color: blue;
+}
