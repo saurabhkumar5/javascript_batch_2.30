@@ -69,7 +69,94 @@
 // console.log(b);
 
 
-let str = 'arushi'
-// console.log(str);
-// console.log(str.length);
-console.log(str[6]);
+// let str = 'arushi'
+// // console.log(str);
+// // console.log(str.length);
+// console.log(str[6]);
+
+
+// let a = 10;
+// let b = 3;
+// console.log(a%b);
+
+// let str1 = "visshu";
+// let str2 = "aarushi";
+// let str = str1+"   "+str2;
+// console.log(str)
+
+//template literals
+
+// let a = 12;
+// let b = 20;
+// let c = "saurabh"
+// console.log(`aarushi ${a} vishu ${b} ${c}`)
+
+
+// let a = 10;
+// let b = '10';
+
+
+
+// console.log(a==b); only check value
+// console.log(a===b); //value & data type checked both
+
+// console.log(20<=20);
+
+// let a = 20;
+// let b = '20';
+// // console.log(a!==b); //check both value nd datatype
+// console.log(a!=b);//only check value
+
+
+// console.log('a'<'A');
+
+// console.log('a'>'b')
+
+
+
+// conditions in javascript
+
+// 1. only if
+// 2. if -else
+// 3. else-if
+// 4. nested if
+// 5. switch
+
+
+// 1. only if
+
+// syntax
+
+// if(condition){
+//     //code
+// }
+
+
+// let a = 10;
+// if(a>8){
+//     console.log("aarushi")
+// }
+
+// if(a>5){
+//     console.log("vishu")
+// }
+// if(a>2){
+//     console.log("aarushi")
+// }
+// if(a>23){
+//     console.log("mohali")
+// }
+
+
+// 2. if-else
+
+// let a = 20;
+// if(a<10){
+//     console.log("hello")
+// }
+// if(a>50){
+//     console.log("mohali")
+// }
+// else{
+//     console.log("world")
+// }
